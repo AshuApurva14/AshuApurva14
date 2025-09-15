@@ -1,26 +1,26 @@
 # Hi, I'm Ashutosh Apurva! 👋
 
-I am a passionate DevOps/SRE engineer with 3 years of experience specializing in infrastructure automation, monitoring, and cloud technologies. I enjoy building reliable, scalable systems and improving developer workflows with automation.
+I am a passionate **DevOps/SRE engineer** with 3 years of experience specializing in infrastructure automation, monitoring, and cloud technologies. I enjoy building reliable, scalable systems and improving developer workflows with automation.
 
 
 ![<AshuApurva14>'s Stats](https://github-readme-stats.vercel.app/api?username=AshuApurva14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a DevOps/SRE at Tata Consultancy Services.
+- 🔭 I'm currently working as a **DevOps/SRE** at **Tata Consultancy Services**.
 - 📝 I write in-depth, long-form articles on my website [ashutoshapurva.com](https://www.ashutoshapurva.com).
 - 🌐 Proud member of the [freeCodeCamp](https://www.freecodecamp.org/), contributing to the tech community.
 
 ## 🔧 Technologies & Tools
-- Infrastructure as Code: Terraform, Ansible
-- Programming: Python, Bash 
-- Container Technology: Docker
-- Container Orchestration: Kubernetes
-- Cloud: AWS
-- CI/CD: GitHub Actions, Jenkins
-- Monitoring: OpenTelemetry, Prometheus, Datadog, Grafana
-- Configuration Management: Ansible
-- Version Control: Git, GitHub
+- Infrastructure as Code: **Terraform**, **Ansible**
+- Programming: **Python**, **Bash** 
+- Container Technology: **Docker**
+- Container Orchestration: **Kubernetes**
+- Cloud: **AWS**
+- CI/CD: **GitHub Actions**, **Jenkins**
+- Monitoring and Observability: **OpenTelemetry**, **Prometheus**, **Datadog**, **Grafana**
+- Configuration Management: **Ansible**
+- Version Control: **Git**, **GitHub**
 
 
 ## 🛠️ What I’m working on
