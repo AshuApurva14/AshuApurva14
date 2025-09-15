@@ -34,7 +34,7 @@ I am a passionate **DevOps/SRE engineer** with 3 years of experience specializin
 - Production-grade tooling
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/ashutosh-apurva]
+- LinkedIn: [https://linkedin.com/in/ashutosh-apurva]
 - Twitter: [https://x.com/ashutosh_apurva]
 
 
