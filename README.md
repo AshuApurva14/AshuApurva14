@@ -9,7 +9,7 @@ I am a passionate **DevOps/SRE engineer** with 3 years of experience specializin
 
 - 🔭 I'm currently working as a **DevOps/SRE** at **Tata Consultancy Services**.
 - 📝 I write in-depth, long-form articles on my website [ashutoshapurva.com](https://www.ashutoshapurva.com).
-- 🌐 Proud member of the [freeCodeCamp<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/652f2d64-dfd8-47a8-ad06-fe78e7269462" />](https://www.freecodecamp.org/), contributing to the tech community.
+- 🌐 Proud member of the [freeCodeCamp https://s3.amazonaws.com/freecodecamp/camper-image-placeholder.png](https://www.freecodecamp.org/), contributing to the tech community.
 
 ## 🔧 Technologies & Tools
 - Infrastructure as Code: **Terraform**, **Ansible**
