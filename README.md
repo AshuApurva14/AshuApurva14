@@ -12,10 +12,10 @@ I am a passionate **DevOps/SRE engineer** with 3 years of experience specializin
 - 🌐 Proud member of the [freeCodeCamp <img width="48" height="48" alt="freecodecamp badge" src="https://github.com/user-attachments/assets/2249aaa5-e724-4d89-a820-45dbe508cbf0" />](https://www.freecodecamp.org/), contributing to the tech community.
 
 ## 🔧 Technologies & Tools
-- Infrastructure as Code: **Terraform**, **Ansible**
+- Infrastructure as Code: **Terraform**
 - Programming: **Python**, **Bash** 
-- Container Technology: **Docker**
-- Container Orchestration: **Kubernetes**
+- Container Tool: **Docker**
+- Container Orchestration Tool: **Kubernetes**
 - Cloud: **AWS**
 - CI/CD: **GitHub Actions**, **Jenkins**
 - Monitoring and Observability: **OpenTelemetry**, **Prometheus**, **Datadog**, **Grafana**
