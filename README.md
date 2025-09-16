@@ -14,7 +14,7 @@ I am a passionate **DevOps/SRE engineer** with 3 years of experience specializin
 ## 🔧 Technologies & Tools
 - Infrastructure as Code: **Terraform**
 - Programming: **Python**, **Bash** 
-- Container Tool: **Docker**
+- Containerization Tool: **Docker**
 - Container Orchestration Tool: **Kubernetes**
 - Cloud: **AWS**
 - CI/CD: **GitHub Actions**, **Jenkins**
