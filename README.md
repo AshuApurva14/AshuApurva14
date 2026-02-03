@@ -36,9 +36,12 @@ I specialize in building scalable infrastructure, automating CI/CD pipelines, an
 
 ---
 
-### 📊 GitHub Activity
-*Note: These cards reflect my real-time contributions and coding habits.*
+### 📈 Contribution Activity
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuApurva14&theme=dracula)
 
+---
+
+### 📊 GitHub Stats
 | My Stats | Top Languages |
 | :--- | :--- |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=AshuApurva14&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuApurva14&layout=compact&theme=dracula) |
