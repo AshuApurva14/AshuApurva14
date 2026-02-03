@@ -1,4 +1,4 @@
-# Hi there, I'm [Ashutosh Apurva]! 👋
+# Hi there, I'm Ashutosh Apurva! 👋
 
 ### ☁️ Cloud & DevOps Engineer 
 
@@ -15,6 +15,12 @@ I specialize in building scalable infrastructure, automating CI/CD pipelines, an
 **Cloud & Orchestration**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Security (DevSecOps)**
+![JFrog Xray](https://img.shields.io/badge/JFrog_Xray-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-326CE5?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Observability & Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -23,7 +29,10 @@ I specialize in building scalable infrastructure, automating CI/CD pipelines, an
 
 **CI/CD & Automation**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Version Control System**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -32,10 +41,10 @@ I specialize in building scalable infrastructure, automating CI/CD pipelines, an
 
 | My Stats | Top Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=[AshuApurva14]&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[AshuApurva14]&layout=compact&theme=dracula) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=AshuApurva14&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuApurva14&layout=compact&theme=dracula) |
 
 ### 🔥 Contribution Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[AshuApurva14]&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshuApurva14&theme=dracula)
 
 ---
 
