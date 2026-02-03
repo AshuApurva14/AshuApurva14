@@ -1,43 +1,55 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Ashutosh Apurva]! 👋
 
-### 🚀 Enthusiastic [Your Role, e.g., Full Stack Developer] from [Your Location]
+### ☁️ Cloud & DevOps Engineer 
 
-I'm a passionate builder who loves turning complex problems into elegant code. I spend my time exploring new frameworks, contributing to open-source, and occasionally debugging until 3 AM.
-
----
-
-### 🛠️ My Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+I specialize in building scalable infrastructure, automating CI/CD pipelines, and maintaining high-availability systems. I’m passionate about **Observability**, **Cloud-Native architectures**, and making deployments as boring (and reliable) as possible.
 
 ---
 
-### 📊 GitHub Stats & Activity
-*These auto-update based on my real-time activity.*
+### 🛠️ Core Tech Stack
+
+**Languages & OS**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Cloud & Orchestration**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Observability & Monitoring**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+**CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+*Note: These cards reflect my real-time contributions and coding habits.*
 
 | My Stats | Top Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=dark) |
-
----
+| ![Stats](https://github-readme-stats.vercel.app/api?username=[AshuApurva14]&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[AshuApurva14]&layout=compact&theme=dracula) |
 
 ### 🔥 Contribution Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[AshuApurva14]&theme=dracula)
 
 ---
 
-### 🤝 Let's Connect!
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 **Email**: yourname@email.com
-- ✍️ **Blog**: [yourblog.com](https://yourblog.com)
+### 🔭 Currently Working On
+- ⚡ Optimizing distributed tracing with **OpenTelemetry**.
+- ☸️ Hardening **Kubernetes** clusters for production workloads.
+- 🐍 Building automation scripts in **Python** to eliminate manual toil.
 
 ---
 
-### ⚡ Fun Fact
-> [Insert a fun fact here, e.g., "I can solve a Rubik's cube in under 2 minutes" or "I've written code on a plane, a train, and a beach."]
+### 📫 Reach Out
+- **LinkedIn**: [linkedin.com/in/ashutosh-apurva](https://linkedin.com/in/ashutosh-apurva)
+- **Email**: aapurva74@gmail.com
+- **X**: [x.com/ashutosh_apurva](https://x.com/ashutosh_apurva)
+
+---
+*“If it isn’t monitored, it isn’t in production.”*
