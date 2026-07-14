@@ -1,69 +1,55 @@
-# Hi there, I'm Ashutosh Apurva! 👋
+# 🚀 Hi, I'm Ashu Apurva! 
+### [Software Engineer | Open Source Contributor | Cloud Native Enthusiast]
 
-[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
-
-### ☁️ Cloud & DevOps Engineer 
-
-I specialize in building scalable infrastructure, automating CI/CD pipelines, and maintaining high-availability systems. I’m passionate about **Observability**, **Cloud-Native architectures**, and making deployments as boring (and reliable) as possible.
-
----
-
-### 🛠️ Core Tech Stack
-
-**Languages & OS**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Cloud & Orchestration**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Security (DevSecOps)**
-![JFrog Xray](https://img.shields.io/badge/JFrog_Xray-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-326CE5?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Observability & Monitoring**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-**CI/CD & Automation**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Version Control System**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+ <a href="https://github.com/AshuApurva14">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Building+Cloud+Native+Tools;Open+Source+Contributor+@Grafana;Exploring+Observability+%26+Go;2026+Focus:+Kubernetes+Ecosystem" alt="Typing SVG" />
+ </a>
+</p>
 
 ---
 
-### 📈 Contribution Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshuApurva14&theme=dracula)
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,js,docker,kubernetes,grafana,prometheus,git,github,linux,aws" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-| My Stats | Top Languages |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=AshuApurva14&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuApurva14&layout=compact&theme=dracula) |
+### 📊 My GitHub Journey
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshuApurva14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuApurva14&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🔥 Contribution Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshuApurva14&theme=dracula)
-
----
-
-### 🔭 Currently Working On
-- ⚡ Optimizing distributed tracing with **OpenTelemetry**.
-- ☸️ Hardening **Kubernetes** clusters for production workloads.
-- 🐍 Building automation scripts in **Python** to eliminate manual toil.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshuApurva14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📫 Reach Out
-- **LinkedIn**: [linkedin.com/in/ashutosh-apurva](https://linkedin.com/in/ashutosh-apurva)
-- **Email**: aapurva74@gmail.com
-- **X**: [x.com/ashutosh_apurva](https://x.com/ashutosh_apurva)
+### 🌟 Featured Open Source Work
+- **[grafana/collector-configurator](https://github.com/grafana/collector-configurator):** Contributing to open-source observability tools to streamline collector configurations.
+- **[Add your own top repo name]:** [Short description of what it does]
 
 ---
-*“If it isn’t monitored, it isn’t in production.”*
+
+### 🎯 2026 Focus
+- 🌱 Deep diving into **Prometheus & OpenTelemetry** for advanced observability.
+- 🚀 Scaling contributions to the **Cloud Native Computing Foundation (CNCF)** projects.
+- ✍️ Writing technical blogs about **DevOps and Go**.
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:[YOUR_EMAIL]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://twitter.com/[YOUR_TWITTER]" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AshuApurva14&label=Profile%20Views&color=45A1FF&style=flat" alt="Visitor Count" />
+</p>
