@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,js,docker,kubernetes,grafana,prometheus,git,github,linux,aws" />
+    <img src="https://skillicons.dev/icons?i=py,opentelemetry,githubactions,docker,kubernetes,grafana,prometheus,git,github,linux,aws" />
   </a>
 </p>
 
