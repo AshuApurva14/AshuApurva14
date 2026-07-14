@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Ashu Apurva! 
+# 🚀 Hi, I'm Ashutosh Apurva! 
 ### [Software Engineer | Open Source Contributor | Cloud Native Enthusiast]
 
 <p align="left">
@@ -32,7 +32,6 @@
 
 ### 🌟 Featured Open Source Work
 - **[grafana/collector-configurator](https://github.com/grafana/collector-configurator):** Contributing to open-source observability tools to streamline collector configurations.
-- **[Add your own top repo name]:** [Short description of what it does]
 
 ---
 
