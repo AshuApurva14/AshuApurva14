@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Ashutosh Apurva! 
-### [Software Engineer | Open Source Contributor | Cloud Native Enthusiast]
+### [DevOps Engineer | Open Source Contributor | Cloud Native Enthusiast]
 
 <p align="left">
  <a href="https://github.com/AshuApurva14">
